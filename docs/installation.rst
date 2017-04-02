@@ -15,7 +15,8 @@ The following packages are user-contributed. They may or may not be up-to-date:
 - `Ubuntu <http://packages.ubuntu.com/search?keywords=vdirsyncer>`_
 - `OS X (homebrew) <http://braumeister.org/formula/vdirsyncer>`_
 - `BSD (pkgsrc) <http://pkgsrc.se/time/py-vdirsyncer>`_
-- `OpenBSD <http://ports.su/productivity/vdirsyncer>`_
+- `OpenBSD <http://openports.se/productivity/vdirsyncer>`_ (a pre-built package
+  is also available).
 
 We only support the latest version of vdirsyncer, which is at the time of this
 writing |vdirsyncer_version|. Please **do not file bugs if you use an older
